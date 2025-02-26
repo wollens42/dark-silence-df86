@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "dark-silence-df86",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9bfd26be-e2e4-4cca-b311-2e79ff07f2ac",
+      "database_name": "weathered-shadow-efa7-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
